@@ -3,3 +3,4 @@
 # make use of variables and dynamic variables
 # author: Chinasa Orji
 # This is a fe application
+# bugs removed

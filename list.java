@@ -3,4 +3,4 @@ chinasa
 simon
 paul
 chichi
-njanmo
+chibike

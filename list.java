@@ -3,4 +3,3 @@ chinasa
 simon
 paul
 chichi
-chibike
